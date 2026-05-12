@@ -380,7 +380,7 @@ export default function ApiDocsPage() {
                     <code>{response}</code>
                   </pre>
                 ) : (
-                  <p style={{ color: '#6b7280', fontSize: '0.875rem' }}>点击"发送请求"查看响应</p>
+                  <p style={{ color: '#6b7280', fontSize: '0.875rem' }}>点击&quot;发送请求&quot;查看响应</p>
                 )}
               </div>
             </>
